@@ -30,7 +30,7 @@ requirements:
     - {{posix}}zip               # [win]
 
   host:
-    - r-base=3.4.3
+    - r-base=3.4.1=4
     - r-dplyr
     - r-haven >=1.0.0
 
